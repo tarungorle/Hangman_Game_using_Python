@@ -38,7 +38,7 @@ while turns > 0:
         if char in guesses:    
     
         # print then out the character
-            print(char),    
+            print(char),  
 
         else:
     
